@@ -1,0 +1,485 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+<title>Error 404</title>
+<meta name="author" content="Fedor Hüneke">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />    
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="manifest-img-192.png">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180.png">
+<link rel="manifest" href="manifest.json" />
+<link rel="mask-icon" href="apple-mask-tab.svg" color="#dc3f20">
+<meta name="msapplication-TileColor" content="#dc3f20">
+<meta name="msapplication-tooltip" content="Konpa Info"/> 
+<meta name="theme-color" content="#ffffff" />
+<meta name="application-name" content="Konpa Info" />
+<meta name="apple-mobile-web-app-title" content="Konpa Info" />
+<meta property="og:type" content="Discography" />
+<meta property="og:title" content="Konpa Info" /> 
+<meta property="og:description" content="The most complete Haitian online discography." />
+<meta property="og:image" content="/image-og-200.png" />
+<meta property="og:site_name" content="Konpa Info" /><link rel="stylesheet" href="styles/site-styles.css">
+<link href="fonts/icons/css/all.css" rel="stylesheet">
+<script type="text/javascript" src="script/site-script.js"></script>
+<script type="text/javascript" src="script/jquery.min.js"></script>
+<script type="text/javascript" src="script/auto.js"></script>
+</head>
+
+<body class="page-100">
+
+<div class="table-000">
+	<div class="row">
+		<div class="cell-top">
+
+
+<!-- Layer "ABC-Mobile" -->
+<div id="abc-mask">
+	<div id="abc-bg"> </div>
+	<div class="abc-layer">
+		<div class="row">
+			<div class="abc-cell">
+<div class="abc-mob-wrapper">
+	<div class="close-layer"><a href="#" onclick="toggleMenu('abc-mask');return false;" class="l-close" title="Close">&nbsp;</a></div>	
+	<div class="clearer"></div>	
+	<!-- scr max -->
+<div class="abc-items" id="abc-1200">
+	 <a href="list/a" class="abc-char" title="First letter">A</a>  <a href="list/b" class="abc-char" title="First letter">B</a>  <a href="list/c" class="abc-char" title="First letter">C</a>  <a href="list/d" class="abc-char" title="First letter">D</a>  <a href="list/e" class="abc-char" title="First letter">E</a>  <a href="list/f" class="abc-char" title="First letter">F</a>  <a href="list/g" class="abc-char" title="First letter">G</a>  <a href="list/h" class="abc-char" title="First letter">H</a>  <a href="list/i" class="abc-char" title="First letter">I</a>  <a href="list/j" class="abc-char" title="First letter">J</a>  <a href="list/k" class="abc-char" title="First letter">K</a>  <a href="list/l" class="abc-char" title="First letter">L</a>  <a href="list/m" class="abc-char" title="First letter">M</a>  <a href="list/n" class="abc-char" title="First letter">N</a>  <a href="list/o" class="abc-char" title="First letter">O</a>  <a href="list/p" class="abc-char" title="First letter">P</a>  <a href="list/q" class="abc-char" title="First letter">Q</a>  <a href="list/r" class="abc-char" title="First letter">R</a>  <a href="list/s" class="abc-char" title="First letter">S</a>  <a href="list/t" class="abc-char" title="First letter">T</a>  <a href="list/u" class="abc-char" title="First letter">U</a>  <a href="list/v" class="abc-char" title="First letter">V</a>  <a href="list/w" class="abc-char" title="First letter">W</a>  <a href="list/x" class="abc-char" title="First letter">X</a>  <a href="list/y" class="abc-char" title="First letter">Y</a>  <a href="list/z" class="abc-char" title="First letter">Z</a> </div>
+<!-- scr min -->
+<div class="abc-items" id="abc-1000">
+
+	<div class="abc-1000-left" id="red-left"><!-- Top Left -->
+		<div id="left-new">		
+			<a href="new" class="abc-char" title="New releases"><i class="fas fa-fire-alt"></i></a>
+		</div>			
+		<div id="left-home">				
+			<a href="home" class="abc-char" title="Start page"><i class="fas fa-home"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-left" id="blue-left"><!-- Bottom Left -->
+		<div class="mail-link">
+			<a href="mail-info.php?search=&so0=is&col=kno&_ds=1&p=0" class="abc-char" title="Any corrections or additions?">#</a>		</div>
+		<div class="mail-link-empty">
+			<a href="home" class="abc-char" title="Home"><i class="fas fa-home"></i></a>
+		</div>
+	</div>
+	
+	<div class="abc-1000-center" id="rb-center"><!-- Top Bottom Center -->
+		<a href="menu" class="abc-char" title="Menu"><i class="fas fa-sitemap"></i></a>	
+	</div>
+	
+	<div class="abc-1000-right" id="red-right"><!-- Top Right -->
+		<div id="right-search">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Search"><i class="fas fa-search"></i></a>
+		</div>
+		<div id="right-search-off">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Close"><i class="fas fa-times"></i></a>
+		</div>		
+		<div id="right-new">		
+			<a href="new" class="abc-char" title="2025 releases"><i class="fas fa-fire-alt"></i></a>
+		</div>
+		<div id="right-back">		
+			<a onclick="history.back()" class="abc-char" title="Back"><i class="fas fa-arrow-left"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-right" id="blue-right"><!-- Bottom Right -->
+			<a href="about" class="abc-char" title="About Konpa.info"><i class="fas fa-child"></i></a>					
+	</div>	
+
+	<div class="clearer"></div>	
+
+</div></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- / Display none -->
+
+	
+<div class="page-top">
+	<div id="abc-rot">
+		<!-- scr max -->
+<div class="abc-items" id="abc-1200">
+	 <a href="list/a" class="abc-char" title="First letter">A</a>  <a href="list/b" class="abc-char" title="First letter">B</a>  <a href="list/c" class="abc-char" title="First letter">C</a>  <a href="list/d" class="abc-char" title="First letter">D</a>  <a href="list/e" class="abc-char" title="First letter">E</a>  <a href="list/f" class="abc-char" title="First letter">F</a>  <a href="list/g" class="abc-char" title="First letter">G</a>  <a href="list/h" class="abc-char" title="First letter">H</a>  <a href="list/i" class="abc-char" title="First letter">I</a>  <a href="list/j" class="abc-char" title="First letter">J</a>  <a href="list/k" class="abc-char" title="First letter">K</a>  <a href="list/l" class="abc-char" title="First letter">L</a>  <a href="list/m" class="abc-char" title="First letter">M</a>  <a href="list/n" class="abc-char" title="First letter">N</a>  <a href="list/o" class="abc-char" title="First letter">O</a>  <a href="list/p" class="abc-char" title="First letter">P</a>  <a href="list/q" class="abc-char" title="First letter">Q</a>  <a href="list/r" class="abc-char" title="First letter">R</a>  <a href="list/s" class="abc-char" title="First letter">S</a>  <a href="list/t" class="abc-char" title="First letter">T</a>  <a href="list/u" class="abc-char" title="First letter">U</a>  <a href="list/v" class="abc-char" title="First letter">V</a>  <a href="list/w" class="abc-char" title="First letter">W</a>  <a href="list/x" class="abc-char" title="First letter">X</a>  <a href="list/y" class="abc-char" title="First letter">Y</a>  <a href="list/z" class="abc-char" title="First letter">Z</a> </div>
+<!-- scr min -->
+<div class="abc-items" id="abc-1000">
+
+	<div class="abc-1000-left" id="red-left"><!-- Top Left -->
+		<div id="left-new">		
+			<a href="new" class="abc-char" title="New releases"><i class="fas fa-fire-alt"></i></a>
+		</div>			
+		<div id="left-home">				
+			<a href="home" class="abc-char" title="Start page"><i class="fas fa-home"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-left" id="blue-left"><!-- Bottom Left -->
+		<div class="mail-link">
+			<a href="mail-info.php?search=&so0=is&col=kno&_ds=1&p=0" class="abc-char" title="Any corrections or additions?">#</a>		</div>
+		<div class="mail-link-empty">
+			<a href="home" class="abc-char" title="Home"><i class="fas fa-home"></i></a>
+		</div>
+	</div>
+	
+	<div class="abc-1000-center" id="rb-center"><!-- Top Bottom Center -->
+		<a href="menu" class="abc-char" title="Menu"><i class="fas fa-sitemap"></i></a>	
+	</div>
+	
+	<div class="abc-1000-right" id="red-right"><!-- Top Right -->
+		<div id="right-search">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Search"><i class="fas fa-search"></i></a>
+		</div>
+		<div id="right-search-off">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Close"><i class="fas fa-times"></i></a>
+		</div>		
+		<div id="right-new">		
+			<a href="new" class="abc-char" title="2025 releases"><i class="fas fa-fire-alt"></i></a>
+		</div>
+		<div id="right-back">		
+			<a onclick="history.back()" class="abc-char" title="Back"><i class="fas fa-arrow-left"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-right" id="blue-right"><!-- Bottom Right -->
+			<a href="about" class="abc-char" title="About Konpa.info"><i class="fas fa-child"></i></a>					
+	</div>	
+
+	<div class="clearer"></div>	
+
+</div>	</div>		
+</div>
+
+<div class="layout" id="search-div">
+	<div id="search-div-1">
+
+<!-- SEARCH TOGGLE -->
+	<div class="page-top" id="no-back">
+		<div id="abc-rot">
+			<!-- scr max -->
+<div class="abc-items" id="abc-1200">
+	 <a href="list/a" class="abc-char" title="First letter">A</a>  <a href="list/b" class="abc-char" title="First letter">B</a>  <a href="list/c" class="abc-char" title="First letter">C</a>  <a href="list/d" class="abc-char" title="First letter">D</a>  <a href="list/e" class="abc-char" title="First letter">E</a>  <a href="list/f" class="abc-char" title="First letter">F</a>  <a href="list/g" class="abc-char" title="First letter">G</a>  <a href="list/h" class="abc-char" title="First letter">H</a>  <a href="list/i" class="abc-char" title="First letter">I</a>  <a href="list/j" class="abc-char" title="First letter">J</a>  <a href="list/k" class="abc-char" title="First letter">K</a>  <a href="list/l" class="abc-char" title="First letter">L</a>  <a href="list/m" class="abc-char" title="First letter">M</a>  <a href="list/n" class="abc-char" title="First letter">N</a>  <a href="list/o" class="abc-char" title="First letter">O</a>  <a href="list/p" class="abc-char" title="First letter">P</a>  <a href="list/q" class="abc-char" title="First letter">Q</a>  <a href="list/r" class="abc-char" title="First letter">R</a>  <a href="list/s" class="abc-char" title="First letter">S</a>  <a href="list/t" class="abc-char" title="First letter">T</a>  <a href="list/u" class="abc-char" title="First letter">U</a>  <a href="list/v" class="abc-char" title="First letter">V</a>  <a href="list/w" class="abc-char" title="First letter">W</a>  <a href="list/x" class="abc-char" title="First letter">X</a>  <a href="list/y" class="abc-char" title="First letter">Y</a>  <a href="list/z" class="abc-char" title="First letter">Z</a> </div>
+<!-- scr min -->
+<div class="abc-items" id="abc-1000">
+
+	<div class="abc-1000-left" id="red-left"><!-- Top Left -->
+		<div id="left-new">		
+			<a href="new" class="abc-char" title="New releases"><i class="fas fa-fire-alt"></i></a>
+		</div>			
+		<div id="left-home">				
+			<a href="home" class="abc-char" title="Start page"><i class="fas fa-home"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-left" id="blue-left"><!-- Bottom Left -->
+		<div class="mail-link">
+			<a href="mail-info.php?search=&so0=is&col=kno&_ds=1&p=0" class="abc-char" title="Any corrections or additions?">#</a>		</div>
+		<div class="mail-link-empty">
+			<a href="home" class="abc-char" title="Home"><i class="fas fa-home"></i></a>
+		</div>
+	</div>
+	
+	<div class="abc-1000-center" id="rb-center"><!-- Top Bottom Center -->
+		<a href="menu" class="abc-char" title="Menu"><i class="fas fa-sitemap"></i></a>	
+	</div>
+	
+	<div class="abc-1000-right" id="red-right"><!-- Top Right -->
+		<div id="right-search">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Search"><i class="fas fa-search"></i></a>
+		</div>
+		<div id="right-search-off">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Close"><i class="fas fa-times"></i></a>
+		</div>		
+		<div id="right-new">		
+			<a href="new" class="abc-char" title="2025 releases"><i class="fas fa-fire-alt"></i></a>
+		</div>
+		<div id="right-back">		
+			<a onclick="history.back()" class="abc-char" title="Back"><i class="fas fa-arrow-left"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-right" id="blue-right"><!-- Bottom Right -->
+			<a href="about" class="abc-char" title="About Konpa.info"><i class="fas fa-child"></i></a>					
+	</div>	
+
+	<div class="clearer"></div>	
+
+</div>		</div>		
+	</div>
+
+<div class="such-wrapper">
+
+<form action="result.php" method="get" name="form_top" 
+	accept-charset="" 
+	onSubmit="return check_top()">		
+	<div class="such-c1" id="suche-back">
+		<div class="such-b1"> </div>	
+	</div>	
+	<div class="such-c2">
+		<div class="such-b2">		
+			<input type="search" 
+			id="artist_id" 
+			class="input-text" 
+			name="search"
+			title="Search for..." 
+			value=""
+			autocomplete="off"
+			onkeyup="autocomplet()"
+			required>	
+		</div>
+	</div>
+	<input id="sis" type="radio" name="so0" value="is">	
+	<input id="scon" type="radio" name="so0" value="contains" checked>
+	<input type="hidden" name="col" value="bnd1,ali1,bnd2,ali2,ser,abu,srt,lbl,srl,yer,nte,trx,kno">
+	<input type="hidden" name="_ds" value="1">		
+	<input type="hidden" name="n" value="200">	
+	<input type="hidden" name="p" value="0">	
+	<input type="hidden" name="desc" value="13">
+	<div class="such-c3">
+		<div class="such-b3">
+		<input type="image" src="images/blank.png" value="o" name="contains" class="suche-submit" title="Search Konpa.info">
+		</div>		
+	</div>
+	
+	<div class="auto-div">
+		<ul id="artists_ids" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='auto'"></ul>
+	</div>
+</form>
+</div>
+<div class="clearer"></div>
+<div class="layout" id="toggle-logo">
+	<div class="toggle-logospacer">&nbsp;</div>
+	<div class="footer-logo"><img src="images/logo-93.png"></div>			
+</div>
+</div></div>
+
+<div class="layout">
+	<div class="headline" id="text">	
+		<div id="lan-eng" class="lan-wrapper">
+	<div class="lan-but">
+		<a onclick="change('lan-kre')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="tradiksyon kreyòl">kreyòl</a>
+	</div>   
+	<div class="lan-but">
+		<a onclick="change('lan-fra')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="traduction française">français</a>
+	</div>
+	<div class="lan-but"><span class="lan-active">english</span></div>    
+</div>
+<div id="lan-fra" class="lan-wrapper">
+	<div class="lan-but">
+		<a onclick="change('lan-kre')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="tradiksyon kreyòl">kreyòl</a>
+	</div>  
+	<div class="lan-but"><span class="lan-active">français</span></div>
+	<div class="lan-but">
+		<a onclick="change('lan-eng')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="english translation">english</a>
+	</div>     
+</div>
+<div id="lan-kre" class="lan-wrapper">
+	<div class="lan-but"><span class="lan-active">kreyòl</span></div>  
+	<div class="lan-but">
+		<a onclick="change('lan-fra')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="traduction française">français</a>
+	</div>
+	<div class="lan-but">
+		<a onclick="change('lan-eng')" 
+		onmouseover="this.style.cursor='pointer'" 
+		onmouseout="this.style.cursor='auto'" 
+		title="english translation">english</a>
+	</div>    
+</div>
+<div class="clearer"></div>			<div class="r-count"></div>
+		<div class="r-head" id="head-eng">		
+			<h1><i class="fas fa-cut"></i> Error 404</h1>
+		</div>
+		<div class="r-head" id="head-fra">		
+			<h1><i class="fas fa-cut"></i> Erreur 404</h1>
+		</div>
+		<div class="r-head" id="head-kre">		
+			<h1><i class="fas fa-cut"></i> Eerè 404</h1>
+		</div>				 
+		<div class="clearer"></div>	
+	</div>
+</div>
+
+<!-- ENG -->
+
+<div id="layer-eng">
+<div class="layout">
+	<div class="text">Sorry, this page does not exist.<br><img src="images/logo-93.png">
+	<br><br>
+	</div>
+</div>
+</div>	
+
+<!-- FRA -->
+	
+<div id="layer-fra">
+<div class="layout">
+	<div class="text">Désolé, cette page n'existe pas.<br><img src="images/logo-93.png">
+	<br><br>
+	</div>	
+</div>
+</div>	
+
+<!-- KRE -->
+
+<div id="layer-kre">
+<div class="layout">
+	<div class="text">Padon, paj sa a pa egziste.<br><img src="images/logo-93.png">
+	<br><br>
+	</div>
+</div>	
+</div>	
+	
+<div class="layout">
+	<div class="footer">
+	
+		<div class="top-but-spacer">
+			<div class="top-but">
+				<a href="/404.php#back-to-top" title="Top of the page"><i class="fas fa-arrow-up"></i></a><br>
+			</div>
+		</div>				
+
+
+
+	<div class="icon-menu">		
+<ul class="footer-nav" id="footer-nav-mob">
+	<li class="menulinks" id="link-home"><a href="home" title="Start page"><i class="fas fa-home"></i></a></li>
+	<li class="menulinks" id="link-menu"><a href="menu" title="Menu"><i class="fas fa-sitemap"></i></a></li>
+	<li class="menulinks" id="link-menu-on"><span class="a-tag"><i class="fas fa-sitemap"></i></span></li>
+	<!-- li class="menulinks" id="link-mail"><a href="mail.php" title="Contact"><i class="fas fa-envelope"></i></a></li>
+	<li class="menulinks on" id="link-mail-on"><i class="fas fa-envelope"></i></li -->
+	<li class="menulinks" id="link-new"><a href="new" title="2025 albums"><i class="fas fa-fire-alt"></i></a></li>
+	<li class="menulinks" id="link-new-on"><span class="a-tag"><i class="fas fa-fire-alt"></i></span></li>
+	<li class="menulinks" id="link-about"><a href="about" title="About"><i class="fas fa-child"></i></a></li>
+	<li class="menulinks" id="link-about-on"><span class="a-tag"><i class="fas fa-child"></i></span></li>
+</ul>		
+	</div>
+	
+		<div class="footer-logo">
+			<img src="images/logo-93.png">
+		</div>	
+				
+	</div>
+</div>
+	
+	
+		</div><!-- /TD -->
+	</div><!-- /TR -->
+	<div class="row">
+		<div class="cell-bottom">
+
+<div class="page-bottom">
+	<div id="abc-blau">
+		<!-- scr max -->
+<div class="abc-items" id="abc-1200">
+	 <a href="list/a" class="abc-char" title="First letter">A</a>  <a href="list/b" class="abc-char" title="First letter">B</a>  <a href="list/c" class="abc-char" title="First letter">C</a>  <a href="list/d" class="abc-char" title="First letter">D</a>  <a href="list/e" class="abc-char" title="First letter">E</a>  <a href="list/f" class="abc-char" title="First letter">F</a>  <a href="list/g" class="abc-char" title="First letter">G</a>  <a href="list/h" class="abc-char" title="First letter">H</a>  <a href="list/i" class="abc-char" title="First letter">I</a>  <a href="list/j" class="abc-char" title="First letter">J</a>  <a href="list/k" class="abc-char" title="First letter">K</a>  <a href="list/l" class="abc-char" title="First letter">L</a>  <a href="list/m" class="abc-char" title="First letter">M</a>  <a href="list/n" class="abc-char" title="First letter">N</a>  <a href="list/o" class="abc-char" title="First letter">O</a>  <a href="list/p" class="abc-char" title="First letter">P</a>  <a href="list/q" class="abc-char" title="First letter">Q</a>  <a href="list/r" class="abc-char" title="First letter">R</a>  <a href="list/s" class="abc-char" title="First letter">S</a>  <a href="list/t" class="abc-char" title="First letter">T</a>  <a href="list/u" class="abc-char" title="First letter">U</a>  <a href="list/v" class="abc-char" title="First letter">V</a>  <a href="list/w" class="abc-char" title="First letter">W</a>  <a href="list/x" class="abc-char" title="First letter">X</a>  <a href="list/y" class="abc-char" title="First letter">Y</a>  <a href="list/z" class="abc-char" title="First letter">Z</a> </div>
+<!-- scr min -->
+<div class="abc-items" id="abc-1000">
+
+	<div class="abc-1000-left" id="red-left"><!-- Top Left -->
+		<div id="left-new">		
+			<a href="new" class="abc-char" title="New releases"><i class="fas fa-fire-alt"></i></a>
+		</div>			
+		<div id="left-home">				
+			<a href="home" class="abc-char" title="Start page"><i class="fas fa-home"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-left" id="blue-left"><!-- Bottom Left -->
+		<div class="mail-link">
+			<a href="mail-info.php?search=&so0=is&col=kno&_ds=1&p=0" class="abc-char" title="Any corrections or additions?">#</a>		</div>
+		<div class="mail-link-empty">
+			<a href="home" class="abc-char" title="Home"><i class="fas fa-home"></i></a>
+		</div>
+	</div>
+	
+	<div class="abc-1000-center" id="rb-center"><!-- Top Bottom Center -->
+		<a href="menu" class="abc-char" title="Menu"><i class="fas fa-sitemap"></i></a>	
+	</div>
+	
+	<div class="abc-1000-right" id="red-right"><!-- Top Right -->
+		<div id="right-search">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Search"><i class="fas fa-search"></i></a>
+		</div>
+		<div id="right-search-off">
+			<a onclick="suchFunction()" 
+			onmouseover="this.style.cursor='pointer'" 
+			onmouseout="this.style.cursor='auto'"
+			class="abc-char" title="Close"><i class="fas fa-times"></i></a>
+		</div>		
+		<div id="right-new">		
+			<a href="new" class="abc-char" title="2025 releases"><i class="fas fa-fire-alt"></i></a>
+		</div>
+		<div id="right-back">		
+			<a onclick="history.back()" class="abc-char" title="Back"><i class="fas fa-arrow-left"></i></a>
+		</div>						
+	</div>
+	
+	<div class="abc-1000-right" id="blue-right"><!-- Bottom Right -->
+			<a href="about" class="abc-char" title="About Konpa.info"><i class="fas fa-child"></i></a>					
+	</div>	
+
+	<div class="clearer"></div>	
+
+</div>	</div>
+</div>
+
+		</div><!-- /TD -->
+	</div><!-- /TR -->
+</div><!-- /TAB -->
+	
+</body>
+</html>
